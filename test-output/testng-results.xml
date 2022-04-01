@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10057" started-at="2022-04-01T13:38:21Z" finished-at="2022-04-01T13:38:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10057" started-at="2022-04-01T13:38:21Z" finished-at="2022-04-01T13:38:31Z">
+      <class name="org.testng.TestNgTask1">
+        <test-method status="PASS" signature="bfCls()[pri:0, instance:org.testng.TestNgTask1@1d76aeea]" name="bfCls" is-config="true" duration-ms="9" started-at="2022-04-01T13:38:21Z" finished-at="2022-04-01T13:38:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfCls -->
+        <test-method status="PASS" signature="bfMtd()[pri:0, instance:org.testng.TestNgTask1@1d76aeea]" name="bfMtd" is-config="true" duration-ms="9257" started-at="2022-04-01T13:38:21Z" finished-at="2022-04-01T13:38:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfMtd -->
+        <test-method status="PASS" signature="title()[pri:0, instance:org.testng.TestNgTask1@1d76aeea]" name="title" duration-ms="16" started-at="2022-04-01T13:38:31Z" finished-at="2022-04-01T13:38:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method status="PASS" signature="aftMtd()[pri:0, instance:org.testng.TestNgTask1@1d76aeea]" name="aftMtd" is-config="true" duration-ms="757" started-at="2022-04-01T13:38:31Z" finished-at="2022-04-01T13:38:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftMtd -->
+        <test-method status="PASS" signature="aftCls()[pri:0, instance:org.testng.TestNgTask1@1d76aeea]" name="aftCls" is-config="true" duration-ms="0" started-at="2022-04-01T13:38:31Z" finished-at="2022-04-01T13:38:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftCls -->
+      </class> <!-- org.testng.TestNgTask1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
